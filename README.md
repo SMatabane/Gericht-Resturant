@@ -15,7 +15,7 @@ This website provides a user-friendly interface to explore our delicious menu it
 
 ## Features
  Responsive Design: Our website is optimized for both desktop and mobile devices, ensuring a seamless browsing experience across all platforms.
-Technologies Used
+
 
 ## Technologies used
 - React.js: Frontend library for building user interfaces.
